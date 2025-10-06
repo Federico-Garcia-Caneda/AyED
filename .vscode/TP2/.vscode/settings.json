@@ -4,6 +4,7 @@
         "iostream": "cpp",
         "prueba123": "cpp",
         "ostream": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "iosfwd": "cpp"
     }
 }
