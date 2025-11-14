@@ -5,6 +5,7 @@
         "prueba123": "cpp",
         "ostream": "cpp",
         "fstream": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "vector": "cpp"
     }
 }
